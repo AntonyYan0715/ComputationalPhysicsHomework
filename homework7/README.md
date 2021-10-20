@@ -1,2 +1,2 @@
 # HW7
-Ordinary differential equations.
+Ordinary Differential Equations
